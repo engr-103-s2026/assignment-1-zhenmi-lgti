@@ -1,24 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
-Mingshi Zhen
+A1. Mingshi Zhen
+
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
-I have no programming experience before, but I have watch python tutorial before, and try to learn basic features.
+A2. I have no programming experience before, but I have watch python tutorial before, and try to learn basic features.
+
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
-No, I don't have.
+A3. No, I don't have.
+
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
-Stregngthen problem solving skills and break down complex problems into small steps to solve them. There is also teamwork, which may need to be coded with others. It can also be coded and executed automatically to improve efficiency.
+A4. Stregngthen problem solving skills and break down complex problems into small steps to solve them. There is also teamwork, which may need to be coded with others. It can also be coded and executed automatically to improve efficiency.
+
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
-It can improve the way I think by helping me become more logical and organized. I'd be able to look at situations mire carefully, break them down, and understand them better. This would make it easier for met o weigh the pros and cons in my daily life and make better choices.
+A5. It can improve the way I think by helping me become more logical and organized. I'd be able to look at situations mire carefully, break them down, and understand them better. This would make it easier for met o weigh the pros and cons in my daily life and make better choices.
+
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
-I am interested in moblie app development. I would like to understand how moblie applications are developed from scratch.
+A6. I am interested in moblie app development. I would like to understand how moblie applications are developed from scratch.
